@@ -30,7 +30,7 @@
         <div class="copyrigh-wrapper"> 
             <div class="container">               
                 <div class="copy_left">
-				   <?php bloginfo('name'); ?> - <?php esc_html_e('Theme by Grace Themes','sports-lite'); ?>  
+				   <?php bloginfo('name'); ?> <?php esc_html_e('Copyright 2024'); ?>  
                 </div>
                 <div class="copy_right"><?php wp_nav_menu( array( 'theme_location' => 'footer') ); ?></div>
                 <div class="clear"></div>                                
